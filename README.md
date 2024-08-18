@@ -25,22 +25,6 @@ Walmart needs a robust machine learning model to accurately predict sales and de
 3. Evaluate model performance using metrics like R², RMSE.
 4. Address the effects of markdowns and holidays in the sales prediction models.
 
-## Getting Started
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/walmart-sales-prediction.git
-   ```
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Project Structure
-- `data/`: Contains the dataset files.
-- `notebooks/`: Jupyter notebooks with analysis, model development, and evaluation.
-- `src/`: Python scripts for data processing and modeling.
-- `README.md`: Project overview and instructions.
-
 ## Evaluation Metrics
 - **R² (Coefficient of Determination)**
 - **RMSE (Root Mean Squared Error)**
